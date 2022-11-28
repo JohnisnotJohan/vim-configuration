@@ -1,4 +1,5 @@
 plugged/**
+!plugged/.gitkeep
 backup/**
 bundle/potion/**
 session/**
