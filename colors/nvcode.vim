@@ -1,0 +1,1 @@
+/home/yuehan/.local/share/nvim/site/pack/packer/start/nvcode-color-schemes.vim/colors/nvcode.vim

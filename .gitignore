@@ -1,0 +1,5 @@
+plugged/**
+backup/**
+bundle/potion/**
+session/**
+autoload/example.vim
